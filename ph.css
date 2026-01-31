@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color:grey;
+}
+div.ph {
+    padding:20px;
+    background-color: aliceblue;
+    color: black;
+margin:20px;
+    
+}
+.very{
+    background-color: lightskyblue;
+    margin-top: 10px;
+    color: white;
+    padding: 10px;
+    margin-left:20px;
+    margin-right: 20px;
+   
+}
+.thirteen{
+    background-color:dodgerblue;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+.twelve{
+    background-color: deepskyblue;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+.eleven{
+    background-color: dodgerblue;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+
+}
+.ten{
+    background-color: cornflowerblue;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+}
+.nine{
+    background-color: royalblue;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+
+}
+.eight{
+    background-color: mediumblue;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+.neutral{
+    background-color: green;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+   
+}
+.seven{
+    background-color: palevioletred;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+.six{
+    background-color: violet;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+.five{
+    background-color: orchid;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+.four{
+    background-color: plum;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+.three{
+    background-color: thistle;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+
+
+    
+.two{
+    background-color: orchid;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+.one{
+    background-color: plum;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+.zero{
+    background-color: thistle;
+    
+    color: white;
+    padding: 10px;
+     margin-left:20px;
+    margin-right: 20px;
+    
+}
+
+
+    
